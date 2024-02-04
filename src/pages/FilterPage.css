@@ -1,0 +1,6 @@
+.div{
+  background-image: url(./back.jpg);
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+}

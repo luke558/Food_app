@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Rubik+Maps&display=swap');
+.container{
+  display: flex;
+}
+.container img{
+  width: 25vw;
+  height: 100vh;
+  object-fit: cover;
+  cursor: pointer;
+ 
+}
+.container button{
+  margin: 0;
+  padding: 2px;
+  border: 3px solid black;
+}
+
+.veg{
+  position:absolute;
+   top: 50%;
+   left: 30%;
+   padding: 15px 25px;
+   font-size: 25px;
+   border-radius: 20px;
+   font-family: 'Roboto', sans-serif;
+   font-family: 'Rubik Maps', system-ui;
+   color: azure;
+   cursor: pointer;
+}
+.nonveg {
+  position:absolute;
+   top: 50%;
+   left: 76%;
+   padding: 15px 25px;
+   font-size: 25px;
+   border-radius: 20px;
+   font-family: 'Roboto', sans-serif;
+   font-family: 'Rubik Maps', system-ui;
+   color: azure;
+   cursor: pointer;
+}
+.egg {
+  position:absolute;
+   top: 50%;
+   left: 55%;
+   padding: 15px 25px;
+   font-size: 25px;
+   border-radius: 20px;
+   font-family: 'Roboto', sans-serif;
+   font-family: 'Rubik Maps', system-ui;
+   color: azure;
+   cursor: pointer;
+}
+.vegan {
+  position:absolute;
+   top: 50%;
+   left: 10%;
+   padding: 15px 25px;
+   font-size: 25px;
+   border-radius: 20px;
+   font-family: 'Roboto', sans-serif;
+   font-family: 'Rubik Maps', system-ui;
+   color: azure;
+   cursor: pointer;
+}
+.btn5{
+  position:absolute;
+   top: 33%;
+   left: 0%;
+   padding: 20px 60px;
+   font-size: 20px;
+   border-radius: 20px;
+   background-color: black;
+   color: azure;
+   cursor: pointer;
+}
+.drop-down{
+  position: fixed;
+  margin-top: -35%;
+  color: black;
+  background-color: black;
+  font-size: 40px;
+  width: 75%;
+}

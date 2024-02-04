@@ -1,0 +1,16 @@
+.header{
+  margin-top: 10px;
+  display: flex;
+  justify-content:space-around;
+  align-items: center;
+  border-bottom: 1px solid #f9f9f9;
+}
+.veg{
+  height: 40px;
+  width: 40px;
+  object-fit: contain;
+  margin : -40px 20px;
+  
+
+  
+}
